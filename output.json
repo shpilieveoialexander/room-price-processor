@@ -1,0 +1,25 @@
+{
+    "cheapest_room": {
+        "room_type": "King Studio Suite - Non Smoking",
+        "price": 90.0,
+        "number_of_guests": 4
+    },
+    "total_prices": {
+        "King Studio Suite - Hearing Accessible/Non-Smoking": {
+            "net_price": "113.05",
+            "total_price_with_taxes": 131.76
+        },
+        "King Studio Suite - Non Smoking": {
+            "net_price": "90",
+            "total_price_with_taxes": 108.71
+        },
+        "King Room - Mobility/Hearing Accessible - Non-Smoking": {
+            "net_price": "115.05",
+            "total_price_with_taxes": 133.76
+        },
+        "Queen Suite with Two Queen Beds - Non-Smoking": {
+            "net_price": "112.05",
+            "total_price_with_taxes": 130.76
+        }
+    }
+}

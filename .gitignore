@@ -10,12 +10,6 @@ venv/
 env/
 *.egg-info/
 
-# Logs and temporary files
-app.log
-*.log
-
-# Output files
-output.json
 
 # System-specific files
 .DS_Store
