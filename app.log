@@ -1,0 +1,9 @@
+2024-11-07 13:35:15,145 - INFO - Loading data from file: data.json
+2024-11-07 13:35:15,146 - INFO - Validating data structure.
+2024-11-07 13:35:15,146 - INFO - Data validation completed successfully.
+2024-11-07 13:35:15,146 - INFO - Data loaded and validated successfully.
+2024-11-07 13:35:15,146 - INFO - Finding the cheapest room.
+2024-11-07 13:35:15,146 - INFO - Cheapest room found: King Studio Suite - Non Smoking with price 90.000000
+2024-11-07 13:35:15,146 - INFO - Calculating total prices for each room.
+2024-11-07 13:35:15,146 - INFO - Total prices calculated successfully.
+2024-11-07 13:35:15,147 - INFO - Output has been saved to output.json
